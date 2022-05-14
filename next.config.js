@@ -5,6 +5,6 @@ module.exports = {
   },
   images: {
     formats: ['image/avif', 'image/webp'],
-    domains: ['pbs.twimg.com']
+    domains: ['pbs.twimg.com', 'applegate-paul.mo.cloudinary.net']
   }
 }
